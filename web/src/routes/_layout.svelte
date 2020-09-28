@@ -6,6 +6,6 @@
 
 <NavBar {segment} />
 
-<main class="py-3 px-6 h-full">
+<main class="py-3 px-4 h-full w-full">
   <slot />
 </main>

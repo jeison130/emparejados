@@ -22,6 +22,7 @@
 <svelte:head>
   <title>Emparejados</title>
 </svelte:head>
+
 <div class="grid grid-cols-2 h-full gap-4">
   {#each categories as category}
     <div class="flex content-center">
