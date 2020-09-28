@@ -1,7 +1,0 @@
-:root {
-  --color-primary: #e91e63;
-}
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
